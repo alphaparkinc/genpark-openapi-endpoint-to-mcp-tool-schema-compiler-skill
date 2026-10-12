@@ -1,0 +1,8 @@
+{
+  "name": "genpark-openapi-endpoint-to-mcp-tool-schema-compiler-skill",
+  "version": "1.0.0",
+  "description": "Compiles OpenAPI 3.x REST path specifications into standardized MCP tool JSON Schema definitions",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
