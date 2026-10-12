@@ -1,0 +1,7 @@
+[project]
+name = "genpark-openapi-endpoint-to-mcp-tool-schema-compiler-skill"
+version = "1.0.0"
+description = "Compiles OpenAPI 3.x REST path specifications into standardized MCP tool JSON Schema definitions"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
